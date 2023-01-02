@@ -9,4 +9,4 @@ modify the AppDynamics configuration value in app.js
 npm install
 node app.js
 
-Access the application on localhost:3000
+Access the application on http://localhost:3000
