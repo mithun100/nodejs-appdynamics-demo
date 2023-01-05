@@ -5,8 +5,15 @@ It requires minimal setup. All the dependencies are present in package.json file
 
 
 clone the repository
+
 modify the AppDynamics configuration value in app.js
+
+Execute this command!
+
 npm install
+
 node app.js
+
+
 
 Access the application on http://localhost:3000
