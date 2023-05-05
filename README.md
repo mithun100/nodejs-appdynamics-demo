@@ -15,5 +15,9 @@ npm install
 node app.js
 
 
+If you want to run them as Docker file, then run the  below command. It will build and run the application in the container.
+
+docker-compose up
+
 
 Access the application on http://localhost:3000
