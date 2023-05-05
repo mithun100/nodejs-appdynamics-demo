@@ -1,0 +1,8 @@
+version: "2"
+services:
+  apps:
+    build:
+     context: .
+    image: nodejs-appdynamics-demo
+    ports:
+      - 3000:3000
