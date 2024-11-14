@@ -8,16 +8,17 @@ clone the repository
 
 modify the AppDynamics configuration value in app.js
 
-Execute this command!
+Execute this command if you want to run the application on the local machine!
 
 npm install
 
 node app.js
 
+OR
 
 If you want to run them as Docker file, then run the  below command. It will build and run the application in the container.
 
-docker-compose up
+docker compose up
 
 
 Access the application on http://localhost:3000

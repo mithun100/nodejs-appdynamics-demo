@@ -4,5 +4,6 @@ services:
     build:
      context: .
     image: nodejs-appdynamics-demo
+    platform: linux/amd64
     ports:
       - 3000:3000
